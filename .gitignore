@@ -65,3 +65,6 @@ ca-gateway-restman-vsts-task/index.js
 ca-gateway-restman-vsts-task/src/*.js
 ca-gateway-restman-vsts-task/src/Axios/*.js
 *.vsix
+
+#mac os files
+.DS_Store
