@@ -9,19 +9,14 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/extension-icon.png" alt="Logo" width="30%" height="100%">
-  </a>
+  
+[![Logo](images/extension-icon.png)](https://github.com/lucasfmarconi/ca-gateway-restman-vsts-task)
 
-  <h3 align="center">CA API Gateway Restman Bundle Test&Install</h3>
+  CA API Gateway Restman Bundle Test&Install
 
-  <p align="center">
-    To transform an exported raw xml bundle, test and install using the version 1.0 of RESTMAN APIs.
-    
-  </p>
-</p>
+  To transform an exported raw xml bundle, test and install using the version 1.0 of RESTMAN APIs.
 
+<br />
 
 
 <!-- TABLE OF CONTENTS -->
@@ -55,13 +50,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/task-overview-pipeline.png" alt="overview" width="100%" height="100%">
-
-<img src="images/task-parameters-view.png" alt="overview" width="100%" height="100%">
-
 This package was developed to automate usage of Restman CA API Gateway. Through this package is possible to transform an exported default bundle xml to test install using the version 1.0 of RESTMAN APIs.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+![Overview](images/task-overview-pipeline.png)
+![Parameters](images/task-parameters-view.png)
+
+
 
 ### Built With
 

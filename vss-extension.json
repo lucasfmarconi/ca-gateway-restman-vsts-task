@@ -2,19 +2,59 @@
     "manifestVersion": 1,
     "id": "ca-gateway-restman-vsts-task",
     "name": "CA API Gateway Restman Bundle Test&Install",
-    "version": "1.1.1",
+    "version": "1.1.5",
     "publisher": "lucasmarconi",
     "targets": [
         {
             "id": "Microsoft.VisualStudio.Services"
         }
-    ],    
+    ],
     "description": "Package developed to automate usage of Restman CA API Gateway. Through this package is possible to transform an exported default bundle xml to test install using the version 1.0 of RESTMAN APIs.",
     "categories": [
         "Azure Pipelines"
     ],
+    "tags": [
+        "release",
+        "build",
+        "CA",
+        "API",
+        "GATEWAY",
+        "RESTMAN",
+        "BUNDLE",
+        "AUTOMATION",
+        "TASK",
+        "AZURE",
+        "DEVOPS",
+        "VSTS"
+    ],
+    "links": {
+        "support": {
+            "uri": "https://github.com/lucasfmarconi/ca-gateway-restman-vsts-task/issues"
+        }
+    },
     "icons": {
-        "default": "images/extension-icon.png"        
+        "default": "images/extension-icon.png"
+    },
+    "branding": {
+        "color": "#dfe3ee",
+        "theme": "grey"
+    },
+    "screenshots": [
+        {
+            "path": "images/task-overview-pipeline.png"
+        },
+        {
+            "path": "images/task-parameters-view.png"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "uri": "https://github.com/lucasfmarconi/ca-gateway-restman-vsts-task"
+    },
+    "content": {
+        "details": {
+            "path": "README.md"
+        }
     },
     "files": [
         {
