@@ -3,7 +3,7 @@
 <!-- [![Forks][forks-shield]][forks-url] -->
 <!-- [![Stargazers][stars-shield]][stars-url] -->
 <!-- [![MIT License][license-shield]][license-url] -->
-[![Issues][issues-shield]][issues-url][![LinkedIn][linkedin-shield]][linkedin-url]
+<!-- [![Issues][issues-shield]][issues-url][![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 
 
@@ -17,7 +17,7 @@
   <h3 align="center">CA API Gateway Restman Bundle Test&Install</h3>
 
   <p align="center">
-    Package developed to automate usage of Restman CA API Gateway. Through this package is possible to transform an exported default bundle xml to test install using the version 1.0 of RESTMAN APIs.
+    To transform an exported raw xml bundle, test and install using the version 1.0 of RESTMAN APIs.
     
   </p>
 </p>
@@ -38,13 +38,13 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#usage">Usage</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!-- <li><a href="#usage">Usage</a></li> -->
     <!-- <li><a href="#roadmap">Roadmap</a></li> -->
     <!-- <li><a href="#contributing">Contributing</a></li> -->
-    <li><a href="#license">License</a></li>
+    <!-- <li><a href="#license">License</a></li> -->
     <li><a href="#contact">Contact</a></li>
     <!-- <li><a href="#acknowledgements">Acknowledgements</a></li> -->
   </ol>
@@ -78,8 +78,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 Please, check the Prerequisites section of Microsoft VSTS Tasks documentation [Add a custom pipelines task extension - Prerequisites](https://docs.microsoft.com/en-us/azure/devops/extend/develop/add-build-task?view=azure-devops#prerequisites)
 
-<!-- USAGE EXAMPLES -->
-## Usage
+
+### Usage
 To local run follow these steps
 
 1. cd to package.json and install (`cd ca-gateway-restman-vsts-task`)
@@ -165,3 +165,5 @@ Lucas Marçoni - [Linkedin](https://www.linkedin.com/in/lucasfmarconi/)
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
+
+[View this Readme Template](https://github.com/othneildrew/Best-README-Template)
